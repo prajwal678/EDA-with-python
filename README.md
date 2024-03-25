@@ -1,0 +1,1 @@
+- Using a basic dataset, I'm showing the process of EDA in a step-by-step manner to clean, sort and organize the data before charting it into graphs and other categorical forms for better visualization and interpretation to gain critical insights that builds better decision making capabilities.
